@@ -1,0 +1,5 @@
+uart_com.c:32:6:user_uart_init	8	static
+uart_com.c:60:13:user_com_init	8	static
+uart_com.c:77:6:user_uart_deinit	8	static
+uart_com.c:82:6:uart_trasmit	24	static
+uart_com.c:90:5:uart_ble_printf	528	static

@@ -1,0 +1,11 @@
+sensor_knock.c:50:6:knock_sensor_init	16	static
+sensor_knock.c:71:6:knock_sensor_process	8	static
+sensor_knock.c:115:13:sensor_knock_set_channel_1	8	static
+sensor_knock.c:127:13:sensor_knock_read_channel_1	16	static
+sensor_knock.c:138:13:sensor_knock_set_channel_2	8	static
+sensor_knock.c:150:13:sensor_knock_read_channel_2	16	static
+sensor_knock.c:163:16:COM_SPI	32	static
+sensor_knock.c:192:13:user_spi_init	4	static
+sensor_knock.c:205:13:knock_sensor_hold_pin	16	static
+sensor_knock.c:218:13:user_spi_cs_set	8	static
+sensor_knock.c:228:13:user_spi_cs_clear	8	static

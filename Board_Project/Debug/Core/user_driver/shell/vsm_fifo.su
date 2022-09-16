@@ -1,0 +1,10 @@
+vsm_fifo.c:43:6:fifo_create	24	static
+vsm_fifo.c:58:6:fifo_add	16	static
+vsm_fifo.c:69:6:fifo_get	16	static
+vsm_fifo.c:80:6:fifo_is_full	16	static
+vsm_fifo.c:88:6:fifo_is_empty	16	static
+vsm_fifo.c:96:6:fifo_discard	24	static
+vsm_fifo.c:121:9:fifo_calculate_max_min	48	static
+vsm_fifo.c:171:9:fifo_calculate_avg	32	static
+vsm_fifo.c:194:13:fifo_copy_from	16	static
+vsm_fifo.c:203:13:fifo_copy_to	16	static

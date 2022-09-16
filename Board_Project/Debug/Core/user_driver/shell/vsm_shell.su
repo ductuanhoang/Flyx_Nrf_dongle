@@ -1,0 +1,12 @@
+vsm_shell.c:113:6:SHELL_Init	24	static
+vsm_shell.c:133:6:SHELL_Process	24	static
+vsm_shell.c:328:16:HelpCommand	32	static
+vsm_shell.c:347:13:ProcessCommand	296	static
+vsm_shell.c:431:13:GetHistoryCommand	24	static
+vsm_shell.c:462:13:AutoComplete	48	static
+vsm_shell.c:520:14:StrCopy	32	static
+vsm_shell.c:533:16:StrLen	24	static
+vsm_shell.c:545:16:StrCompare	24	static
+vsm_shell.c:557:16:ParseLine	40	static
+vsm_shell.c:612:9:SHELL_RegisterCommand	24	static
+vsm_shell.c:628:16:GetChar	24	static

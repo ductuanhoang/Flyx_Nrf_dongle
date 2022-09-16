@@ -1,0 +1,8 @@
+app_cli.c:50:5:user_put_char	16	static
+app_cli.c:55:5:user_get_char	24	static
+app_cli.c:62:6:vsm_cli_start	24	static
+app_cli.c:77:6:vsm_cli_main_loop	16	static
+app_cli.c:83:16:cli_reset_system	24	static
+app_cli.c:89:16:test_ble	32	static
+app_cli.c:96:16:sensor_list	24	static
+app_cli.c:108:16:rise_compute	32	static

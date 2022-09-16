@@ -1,0 +1,7 @@
+vsm_retarget.c:56:6:retarget_shell	16	static
+vsm_retarget.c:66:12:retarget_init_fifo	8	static
+vsm_retarget.c:84:5:serial_get_char	24	static
+vsm_retarget.c:106:5:uart_debug_printf	528	static
+vsm_retarget.c:118:6:user_putchar	16	static
+vsm_retarget.c:125:6:user_getchar	16	static
+vsm_retarget.c:132:6:HAL_UART_RxCpltCallback	16	static

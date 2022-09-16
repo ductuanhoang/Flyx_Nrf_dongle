@@ -1,0 +1,5 @@
+ble_com.c:41:6:ble_com_init	8	static
+ble_com.c:46:6:ble_com_send_interval	8	static
+ble_com.c:75:6:ble_hanlder_loop	8	static
+ble_com.c:118:13:device_send_report	24	static
+ble_com.c:141:13:ble_packet_message	40	static

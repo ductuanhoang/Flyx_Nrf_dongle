@@ -1,0 +1,20 @@
+{
+    "files.associations": {
+        "bsp_btn_ble.h": "c",
+        "nordic_common.h": "c",
+        "app_uart.h": "c",
+        "stdbool.h": "c",
+        "app_error.h": "c",
+        "ble_db_discovery.h": "c",
+        "app_timer.h": "c",
+        "app_util.h": "c",
+        "ble_gap.h": "c",
+        "ble_hci.h": "c",
+        "nrf_sdh.h": "c",
+        "nrf_sdh_ble.h": "c",
+        "nrf_sdh_soc.h": "c",
+        "nrf_ble_gatt.h": "c",
+        "ble_nus_c.h": "c"
+    },
+    "cmake.configureOnOpen": true
+}

@@ -1,0 +1,3 @@
+adc_driver.c:86:6:HAL_ADC_ConvCpltCallback	24	static
+adc_driver.c:107:6:adc_start_process	8	static
+adc_driver.c:118:11:adc_get_sample	4	static

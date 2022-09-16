@@ -1,0 +1,5 @@
+sensor_base_process.c:61:6:sensor_measure_process	8	static
+sensor_base_process.c:80:13:batterry_lipo_measure	16	static
+sensor_base_process.c:93:13:batterry_charging_measure	16	static
+sensor_base_process.c:108:13:pressure_sender_measure	24	static
+sensor_base_process.c:132:9:oild_pressuare_table	32	static
